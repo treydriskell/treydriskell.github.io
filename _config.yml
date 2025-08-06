@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
-title: "Trey Driskell's Homepage"
-description: "Email: gdriskel@usc.edu"
-logo: img/profile_image_2.png
+title: Trey Driskell
+description: Portfolio site for data science and machine learning projects
+theme: minima
