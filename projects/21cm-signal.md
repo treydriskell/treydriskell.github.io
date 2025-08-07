@@ -6,6 +6,8 @@ permalink: /projects/21cm-signal/
 
 # 21cm Signal Modeling
 
-A combined cosmological code framework to compute the global 21cm signal under different cosmological scenarios. This includes novel early-universe physics, dark matter-baryon interactions, and thermal histories. Code combines radiative transfer, halo growth, and reionization effects.
+# Overview
 
-![screenshot](/assets/images/21cm_signal.png)
+I created the first self-consistent framework to compute the global 21cm signal in cosmologies with dark-matter baryon interactions. The code combines the effect that the interactions have on both the thermal history and the formation of structure in the universe, and we mock how these effects would impact a signal like EDGES.
+
+![screenshot](/assets/images/21cm_pipeline.png)
