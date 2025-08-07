@@ -6,6 +6,7 @@ permalink: /projects/jwst-inference/
 
 # JWST Likelihood Inference
 
-A Bayesian pipeline to compare galaxy formation models with JWST data using Gaussian process regression (GPFlow), custom likelihoods, and astrophysical simulations. This tool enables probabilistic parameter estimation of galaxy evolution parameters.
+## TLDR
+We created the first Bayesian likelihood inference pipeline for analyzing high-redshift galaxy data from the James Webb Space Telescope (JWST) using a semi-analytic galaxy model.
 
 ![screenshot](/assets/images/jwst_pipeline.png)
