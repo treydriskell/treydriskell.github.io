@@ -6,6 +6,6 @@ permalink: /contact/
 
 # Contact
 
-Email: trey.driskell@email.com  
+Email: treyadris@gmail.com  
 GitHub: [github.com/treydriskell](https://github.com/treydriskell)  
-LinkedIn: [linkedin.com/in/treydriskell](https://linkedin.com/in/treydriskell)
+LinkedIn: [linkedin.com/in/trey-driskell-4a9286332](linkedin.com/in/trey-driskell-4a9286332)
