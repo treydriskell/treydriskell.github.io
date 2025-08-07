@@ -9,4 +9,4 @@ permalink: /projects/jwst-inference/
 ## TLDR
 We created the first Bayesian likelihood inference pipeline for analyzing high-redshift galaxy data from the James Webb Space Telescope (JWST) using a semi-analytic galaxy model.
 
-![screenshot](/assets/images/jwst_pipeline.png)
+![Our analysis Pipeline](/assets/images/jwst_pipeline.pdf)
