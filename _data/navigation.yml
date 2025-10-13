@@ -4,6 +4,7 @@ main:
     icon: "fas fa-user"
   - title: "Research"
     url: /research/
+    icon: "fas fa-star"
   - title: "Projects"
     url: /projects/
-  
+    icon: "fas fa-code-branch"
