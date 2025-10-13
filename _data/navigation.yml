@@ -1,7 +1,7 @@
 main:
   - title: "Research"
-    url: /research/
+    url: /_pages/research.md
   - title: "Projects"
-    url: /projects/
+    url: /_pages/projects.md
   - title: "About"
-    url: /about/
+    url: /_pages/about.md
