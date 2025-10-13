@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-    icon: "fas fa-light fa-user"
+    icon: "fas fa-user"
   - title: "Research"
     url: /research/
   - title: "Projects"
