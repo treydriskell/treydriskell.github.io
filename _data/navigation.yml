@@ -1,10 +1,10 @@
 main:
-  - title: "About"
+  - title: "🙋‍♂️ About"
     url: /about/
     icon: "fas fa-user"
-  - title: "Research"
+  - title: "⭐️ Research"
     url: /research/
     icon: "fas fa-star"
-  - title: "Projects"
+  - title: "👨‍💻 Projects"
     url: /projects/
     icon: "fas fa-code-branch"
