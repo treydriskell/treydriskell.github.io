@@ -61,7 +61,7 @@ author:
   name   : "Trey Driskell"
   avatar : "/assets/images/me.jpg"
   bio    : "Physics PhD graduate, ML enthusiast"
-  location : "Long Beach, CA, USA"
+  location : "Long Beach, CA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
