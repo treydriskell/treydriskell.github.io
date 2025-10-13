@@ -64,10 +64,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "treyadris@gmail.com"
+      url: "mailto:treyadris@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "treydriskell.github.io"
+      url: "https://treydriskell.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/treydriskell"
