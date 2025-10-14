@@ -3,7 +3,7 @@ layout: single
 title: "Home"
 author_profile: true
 ---
-### Hi, I’m Trey Driskell — Physicist | Data Analyst | ML enthusiast
+### Hi, I’m Trey Driskell — Physicist | Data Analyst | ML practitioner
 
 I recently earned my doctorate from USC, and I'm looking to break into the tech industry. My research involved building software to efficiently model new physics, extract insight from telescopes data, and uncover novel phenomena using machine learning algorithms.
 
