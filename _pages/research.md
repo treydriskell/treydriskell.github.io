@@ -11,7 +11,7 @@ Here are a collection of research project projects I worked on, ordered roughly 
 - [Unified Pipeline for IDM and the global 21-cm Signal](/research/21cm/)
 
 Full list of publications:
-- Aryan Rahimieh, Priyank Parashari, Rui An, Trey Driskell, Jordan Mirocha, Vera Gluscevic. [“Sensitivity of the Global 21-cm Signal to Dark Matter-Baryon Scattering”](https://doi.org/10.48550/arXiv.2505.03148), arXiv:2505.03148., 2025.
+- Aryan Rahimieh, Priyank Parashari, Rui An, Trey Driskell, Jordan Mirocha, Vera Gluscevic. “Sensitivity of the Global 21-cm Signal to Dark Matter-Baryon Scattering”, arXiv:2505.03148., 2025. [Link](https://doi.org/10.48550/arXiv.2505.03148)
 - [Adam He, Mikhail M. Ivanov, Rui An, Trey Driskell, Vera Gluscevic, “Bounds on Velocity-Dependent Dark Matter-Baryon Scattering from Large-Scale Structure”, published in the Journal of Cosmology and Astroparticle Physics (JCAP), 2025.](https://doi.org/10.1088/1475-7516/2025/05/087)
 - James Wen, Karime Maamari, Adam He, Trey Driskell, Timothy Morton, Vera Gluscevic. “BSAVI: Bayesian SAmple VIsualizer for cosmological likelihoods”, published in  Astrophysics Source Code Library, bibcode: 2024ascl.soft11012W. 2024.
 - [Trey Driskell, Ethan O. Nadler, Andrew Benson, Vera Gluscevic. “Population synthesis and astrophysical inference for high-z JWST galaxies.” arXiv:2410.11680., submitted to the Monthly Notices of the Royal Astronomical Society (MNRAS), 2024.](https://doi.org/10.48550/arXiv.2410.11680)
