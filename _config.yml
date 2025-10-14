@@ -48,6 +48,13 @@ rss:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+sass:
+  style: compressed
+
+# Tell Minimal Mistakes to use your custom main.scss
+assets:
+  css: "assets/css/main.css"
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
