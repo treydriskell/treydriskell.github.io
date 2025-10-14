@@ -3,9 +3,11 @@ layout: single
 title: "Home"
 author_profile: true
 ---
-Hi, my name is Trey Driskell, and I recently received my doctorate in Physics from the University of Southern California (USC) and currently looking for jobs in the tech industry with an emphasis on machine learning. 
+### Hi, I’m Trey Driskell — Physicist | Data Analyst | ML enthusiast
 
-* Learn more about me → [About](/about/)
+I recently earned my doctorate from USC, and I'm looking to break into the tech industry. My research involved building software to efficiently model new physics, extract insight from telescopes data, and uncover novel phenomena using machine learning algorithms.
+
+* To learn more about me → [About](/about/)
 * To read more about my research → [Research](/research/)
-* Learn about the projects that I'm working on → [Projects](/projects/)
+* To see what I'm currently working on → [Projects](/projects/)
 
